@@ -1,0 +1,4 @@
+pypdf2
+pillow
+tkinter-tooltip
+docx2pdf
